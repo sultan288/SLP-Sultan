@@ -1,0 +1,116 @@
+D:\Class Morning\Project\RealProjectB1\bin\RealProjectB1.dll.config
+D:\Class Morning\Project\RealProjectB1\bin\RealProjectB1.dll
+D:\Class Morning\Project\RealProjectB1\bin\RealProjectB1.pdb
+D:\Class Morning\Project\RealProjectB1\bin\roslyn\csc.exe
+D:\Class Morning\Project\RealProjectB1\bin\roslyn\csc.exe.config
+D:\Class Morning\Project\RealProjectB1\bin\roslyn\csc.rsp
+D:\Class Morning\Project\RealProjectB1\bin\roslyn\csi.exe
+D:\Class Morning\Project\RealProjectB1\bin\roslyn\csi.exe.config
+D:\Class Morning\Project\RealProjectB1\bin\roslyn\csi.rsp
+D:\Class Morning\Project\RealProjectB1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Class Morning\Project\RealProjectB1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Class Morning\Project\RealProjectB1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Class Morning\Project\RealProjectB1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Class Morning\Project\RealProjectB1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Class Morning\Project\RealProjectB1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Class Morning\Project\RealProjectB1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Class Morning\Project\RealProjectB1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Class Morning\Project\RealProjectB1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Class Morning\Project\RealProjectB1\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Class Morning\Project\RealProjectB1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Class Morning\Project\RealProjectB1\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Class Morning\Project\RealProjectB1\bin\roslyn\System.AppContext.dll
+D:\Class Morning\Project\RealProjectB1\bin\roslyn\System.Collections.Immutable.dll
+D:\Class Morning\Project\RealProjectB1\bin\roslyn\System.Console.dll
+D:\Class Morning\Project\RealProjectB1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Class Morning\Project\RealProjectB1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Class Morning\Project\RealProjectB1\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Class Morning\Project\RealProjectB1\bin\roslyn\System.Globalization.Calendars.dll
+D:\Class Morning\Project\RealProjectB1\bin\roslyn\System.IO.Compression.dll
+D:\Class Morning\Project\RealProjectB1\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Class Morning\Project\RealProjectB1\bin\roslyn\System.IO.FileSystem.dll
+D:\Class Morning\Project\RealProjectB1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Class Morning\Project\RealProjectB1\bin\roslyn\System.Net.Http.dll
+D:\Class Morning\Project\RealProjectB1\bin\roslyn\System.Net.Sockets.dll
+D:\Class Morning\Project\RealProjectB1\bin\roslyn\System.Reflection.Metadata.dll
+D:\Class Morning\Project\RealProjectB1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Class Morning\Project\RealProjectB1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Class Morning\Project\RealProjectB1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Class Morning\Project\RealProjectB1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Class Morning\Project\RealProjectB1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Class Morning\Project\RealProjectB1\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Class Morning\Project\RealProjectB1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Class Morning\Project\RealProjectB1\bin\roslyn\System.ValueTuple.dll
+D:\Class Morning\Project\RealProjectB1\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Class Morning\Project\RealProjectB1\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Class Morning\Project\RealProjectB1\bin\roslyn\System.Xml.XPath.dll
+D:\Class Morning\Project\RealProjectB1\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Class Morning\Project\RealProjectB1\bin\roslyn\vbc.exe
+D:\Class Morning\Project\RealProjectB1\bin\roslyn\vbc.exe.config
+D:\Class Morning\Project\RealProjectB1\bin\roslyn\vbc.rsp
+D:\Class Morning\Project\RealProjectB1\bin\roslyn\VBCSCompiler.exe
+D:\Class Morning\Project\RealProjectB1\bin\roslyn\VBCSCompiler.exe.config
+D:\Class Morning\Project\RealProjectB1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Class Morning\Project\RealProjectB1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Class Morning\Project\RealProjectB1\obj\Debug\RealProjectB1.csproj.CoreCompileInputs.cache
+D:\Class Morning\Project\RealProjectB1\obj\Debug\RealProjectB1.csproj.CopyComplete
+D:\Class Morning\Project\RealProjectB1\obj\Debug\RealProjectB1.dll
+D:\Class Morning\Project\RealProjectB1\obj\Debug\RealProjectB1.pdb
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-19\New folder\New folder\RealProjectB1\bin\RealProjectB1.dll.config
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-19\New folder\New folder\RealProjectB1\bin\RealProjectB1.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-19\New folder\New folder\RealProjectB1\bin\RealProjectB1.pdb
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-19\New folder\New folder\RealProjectB1\bin\roslyn\csc.exe
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-19\New folder\New folder\RealProjectB1\bin\roslyn\csc.exe.config
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-19\New folder\New folder\RealProjectB1\bin\roslyn\csc.rsp
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-19\New folder\New folder\RealProjectB1\bin\roslyn\csi.exe
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-19\New folder\New folder\RealProjectB1\bin\roslyn\csi.exe.config
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-19\New folder\New folder\RealProjectB1\bin\roslyn\csi.rsp
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-19\New folder\New folder\RealProjectB1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-19\New folder\New folder\RealProjectB1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-19\New folder\New folder\RealProjectB1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-19\New folder\New folder\RealProjectB1\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-19\New folder\New folder\RealProjectB1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-19\New folder\New folder\RealProjectB1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-19\New folder\New folder\RealProjectB1\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-19\New folder\New folder\RealProjectB1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-19\New folder\New folder\RealProjectB1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-19\New folder\New folder\RealProjectB1\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-19\New folder\New folder\RealProjectB1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-19\New folder\New folder\RealProjectB1\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-19\New folder\New folder\RealProjectB1\bin\roslyn\System.AppContext.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-19\New folder\New folder\RealProjectB1\bin\roslyn\System.Collections.Immutable.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-19\New folder\New folder\RealProjectB1\bin\roslyn\System.Console.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-19\New folder\New folder\RealProjectB1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-19\New folder\New folder\RealProjectB1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-19\New folder\New folder\RealProjectB1\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-19\New folder\New folder\RealProjectB1\bin\roslyn\System.Globalization.Calendars.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-19\New folder\New folder\RealProjectB1\bin\roslyn\System.IO.Compression.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-19\New folder\New folder\RealProjectB1\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-19\New folder\New folder\RealProjectB1\bin\roslyn\System.IO.FileSystem.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-19\New folder\New folder\RealProjectB1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-19\New folder\New folder\RealProjectB1\bin\roslyn\System.Net.Http.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-19\New folder\New folder\RealProjectB1\bin\roslyn\System.Net.Sockets.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-19\New folder\New folder\RealProjectB1\bin\roslyn\System.Reflection.Metadata.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-19\New folder\New folder\RealProjectB1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-19\New folder\New folder\RealProjectB1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-19\New folder\New folder\RealProjectB1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-19\New folder\New folder\RealProjectB1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-19\New folder\New folder\RealProjectB1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-19\New folder\New folder\RealProjectB1\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-19\New folder\New folder\RealProjectB1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-19\New folder\New folder\RealProjectB1\bin\roslyn\System.ValueTuple.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-19\New folder\New folder\RealProjectB1\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-19\New folder\New folder\RealProjectB1\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-19\New folder\New folder\RealProjectB1\bin\roslyn\System.Xml.XPath.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-19\New folder\New folder\RealProjectB1\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-19\New folder\New folder\RealProjectB1\bin\roslyn\vbc.exe
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-19\New folder\New folder\RealProjectB1\bin\roslyn\vbc.exe.config
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-19\New folder\New folder\RealProjectB1\bin\roslyn\vbc.rsp
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-19\New folder\New folder\RealProjectB1\bin\roslyn\VBCSCompiler.exe
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-19\New folder\New folder\RealProjectB1\bin\roslyn\VBCSCompiler.exe.config
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-19\New folder\New folder\RealProjectB1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-19\New folder\New folder\RealProjectB1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-19\New folder\New folder\RealProjectB1\obj\Debug\RealProjectB1.csproj.CoreCompileInputs.cache
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-19\New folder\New folder\RealProjectB1\obj\Debug\RealProjectB1.csproj.CopyComplete
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-19\New folder\New folder\RealProjectB1\obj\Debug\RealProjectB1.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-19\New folder\New folder\RealProjectB1\obj\Debug\RealProjectB1.pdb
